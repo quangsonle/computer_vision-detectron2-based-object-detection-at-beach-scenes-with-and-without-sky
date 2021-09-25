@@ -2,7 +2,7 @@
 
 this is a work to demo the usage of open source detectron to detect and label objects at beach scenes (there are 4 photos)
 
-the performance is evaluated if direct applying detectron2, applying detectron2 after sky removal (i.e no object on the sky in the beach scenes) with 2 different ways to detect the sky:panoptic segmentation (detectron2) and hough line transform (opencv)
+the performance is evaluated if direct applying detectron2, applying detectron2 after sky removal (i.e no object on the sky in the beach scenes) with 2 different ways to detect the sky:panoptic segmentation (detectron2) (in file sky_crop.py) and hough line transform (opencv) (in file no_sky_seg.py) 
 
 it is run on Google Colab. Running on offiline GPU should work but is not guaranteed if there is any issue
 
