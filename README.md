@@ -20,3 +20,7 @@ ENSURE you put all of them in "content" folder on the browse, otherwise remote m
 the link of my google colab:
 
 https://colab.research.google.com/drive/1WyWEpP7dg5MjmJagJ3ErcpD-XLg6VNeQ?usp=sharing
+
+
+NOTE:I do NOT own the copyright of the 4 test photo. I found them in Google's image
+Any commercial usage of them is not my responsibility 
