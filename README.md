@@ -13,7 +13,7 @@ in order to run:
 -beach.jpg, beach2.jpg, beach3.jpg, beach4.jpg
 -sky_crop.py,no_sky_seg.py,alone_seg.py
 they all are inside of the the project's page
-ENSURE you put all of them in "content" folder on the browse, otherwise remmote machine wont find them and of course, nothing will work
+ENSURE you put all of them in "content" folder on the browse, otherwise remote machine wont find them and of course, nothing will work
 3/ you can run one-by-one of the box to check
 
 
