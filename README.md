@@ -1,4 +1,4 @@
-# objects detection at beach scenes usig detectron-sky detection and sky removal using panoptic segmentation (detectron) and hough line transform
+# objects detection at beach scenes usig detectron2-sky detection and sky removal using panoptic segmentation (detectron2) and hough line transform
 
 this is a work to demo the usage of open source detectron to detect and label objects at beach scenes (there are 4 photos)
 
